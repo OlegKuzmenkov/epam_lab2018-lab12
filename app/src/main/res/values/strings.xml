@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ServicesApplication</string>
+    <string name="start_started_service">Start Started Service</string>
+    <string name="start_bound_service">Start Bound Service</string>
+    <string name="start_job_scheduler">Start Job Scheduler</string>
+</resources>
